@@ -12,8 +12,4 @@ print(nome2)
 print (idade2)
 print (peso2)
 
-n1= (input("Digite um número:"))
-s= n1-1
-a= n1+1
 
-print("Você digitou o número {}. \n Seu antecessor é {}. \n E seu sucessor é {}".format(n1,s,a))
